@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matrud
-- 👀 I’m interested in ... IT, Medicine(Pharmacy, neurobiology, immunology),  Chemistry
+- 👀 I’m interested in ... IT Programming[C++, JavaScript, Python] and all topics around for ex. Pentesting, Medicine(Pharmacy, neurobiology, immunology), Chemistry
 - 🌱 I’m currently learning ... everyday something new
 - 💞️ I’m looking to collaborate on ... don't know yet
 - 📫 How to reach me ... rudziksmateusz@gmail.com
